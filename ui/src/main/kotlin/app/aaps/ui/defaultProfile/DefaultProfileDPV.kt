@@ -42,7 +42,7 @@ class DefaultProfileDPV @Inject constructor(
         } else if (age > 18) {
             return null
         }
-        profile.put("dia", 5.0)
+        profile.put("dia", 3.0)
         profile.put("carbs_hr", 20) // not used
         profile.put("delay", 5.0) // not used
         profile.put("timezone", TimeZone.getDefault().id)
