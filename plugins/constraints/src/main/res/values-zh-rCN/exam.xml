@@ -3,7 +3,7 @@
     <string name="dia_whatmeansdia">关于DIA(胰岛素作用持续时间)哪些是对的?</string>
     <string name="dia_label_exam">胰岛素作用持续时间 ( DIA)</string>
     <string name="dia_profile">您应该在个人配置文件中设置胰岛素敏感系数DIA的值。</string>
-    <string name="dia_minimumis5h">允许的最小值为 3 小时。</string>
+    <string name="dia_minimumis3h">允许的最小值为 3 小时。</string>
     <string name="dia_valuemustbedetermined">您应该为自己确定 DIA 的适当值。</string>
     <string name="hypott_label">低血糖临时目标</string>
     <string name="hypott_wrongbasal">纠正由于基础率设置不准确而引起的低血糖事件。</string>
